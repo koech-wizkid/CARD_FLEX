@@ -1,0 +1,124 @@
+.container {
+    background-color:hsl(253, 87%, 58%);
+    padding-left: 12%;
+    color:rgb(204, 212, 219);
+    border-radius: 30px;
+    
+    
+
+    
+
+}
+.main {
+display: flex;
+flex-direction:row;
+margin:15%;
+width:42%;
+height: 400px;
+font-family: serif;
+box-shadow: 9px 10px 12px 5px #ecf0f3;
+border-top-right-radius: 30px;
+border-bottom-right-radius: 20px;
+
+
+}
+.section {
+    margin-left: 40px;
+    background-color: white;
+    width:520px;
+    height: 10px;
+    border-radius: 50px;
+    
+    
+}
+.paragraph {
+    margin-right: 30px;
+}
+.concentration {
+    background-color: rgb(62, 37, 204);
+    width:60px;
+    height: 60px;
+    padding:45px;
+    margin-bottom: 20px;
+    border-radius: 80px;
+    
+
+}
+.num {
+    font-size: 300%;
+    color:azure;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    
+}
+h3 {
+    
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-top: 40px;
+    
+    
+    
+}
+.great {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    font-weight: bolder;
+    margin-left: 45px;
+}
+.reaction {
+border: none;
+font-size: 100%;
+background-color: rgb(255, 245, 233);
+padding: 10px;
+margin-bottom: 20px;
+width: 90%;
+border-radius:8px;
+
+}
+.memory {
+    border: none;
+    margin-bottom: 20px;
+    font-size: 100%;
+    padding: 10px;
+    width: 90%;
+    border-radius:8px;
+    color: rgb(243, 141, 9);
+    background-color: rgb(253, 245, 249);
+
+}
+.verbal {
+    border: none;
+    margin-bottom: 20px;
+    border-radius:8px;
+    width: 90%;
+    font-size: 100%;
+    padding: 10px;
+    color:rgb(47, 241, 8);
+    
+
+}
+.visual {
+    border: none;
+    border-radius:8px;
+    margin-bottom: 40px;
+    width: 90%;
+    padding: 10px;
+    font-size: 100%;
+    color:rgb(38, 22, 177);
+    
+
+}
+
+.continue {
+    margin-left: 3px;
+    padding: 6px;
+    width: 86%;
+    background-color: rgb(24, 23, 23);
+    color: white; 
+    font-size: medium;
+    border-radius: 30px;
+}
+
